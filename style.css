@@ -2,17 +2,20 @@
 {
 	margin-top: 20px; 
 	margin-bottom: 20px; 
+	border-radius:15px;
 }
 #sort_button
 {
 	display: none;
 	margin-top: 20px; 
 	margin-bottom: 20px; 
+	border-radius:15px
 }
 
 input
 {
 	margin: 10px;
+	border-radius:10px;
 }
 .display_name_with_commas
 {
